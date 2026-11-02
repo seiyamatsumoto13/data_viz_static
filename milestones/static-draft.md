@@ -73,3 +73,12 @@ This chart explores the historical association between the foreign-born populati
 I currently envision an interactive infographic or visual storytelling webpage that guides audiences through different dimensions of economic inequality.
 
 For the final version, I may select three or four key visualizations to develop a clearer narrative and encourage deeper exploration.
+
+
+## Data availability
+
+The CPS ASEC 2026 dataset (`data/pppub26.csv`) is not included in this repository because its file size (approximately 248 MB) exceeds GitHub's 100 MB file limit.
+
+The dataset is publicly available from the U.S. Census Bureau's Current Population Survey (CPS) ASEC public-use microdata. Download the 2026 person-level CSV and save it as `data/pppub26.csv` to reproduce the CPS-based visualizations.
+
+All generated charts are included in the `img/` directory.
