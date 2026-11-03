@@ -24,7 +24,7 @@ The poster asks who benefits from economic prosperity and uses multiple datasets
 | **Does Immigration Matter?** | U.S. population composition by race/ethnicity (2020) | `img/04b.png` |
 | **Does Immigration Matter?** | Scatter/connected-dot chart of foreign-born population share and the household-income Gini coefficient | `img/04c.png` |
 
-The charts were produced with Python and Altair. The final poster was composed and refined in Adobe Illustrator (final/static.ai), including visual styling, annotations, illustrations, and adjustments to exported charts. The final poster layout is therefore not generated automatically by the notebook. The editable Illustrator source file is kept locally because it exceeds GitHub's file size limit.
+The charts were produced with Python and Altair. The final poster was composed and refined in Adobe Illustrator, including visual styling, annotations, illustrations, and adjustments to exported charts. The final poster layout is therefore not generated automatically by the notebook. The editable Illustrator source file (`static.ai`) is kept locally because it exceeds GitHub's file size limit.
 
 ## Data sources
 
