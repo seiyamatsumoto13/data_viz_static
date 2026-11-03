@@ -3,8 +3,8 @@
 **Static data visualization project** · CAPP 30239 Data Visualization · University of Chicago  
 **Author:** Seiya Matsumoto · **November 2026**
 
-![The Era of Capital Kingdoms — final poster](static-viz/poster.png)
-[**View the full-resolution poster (PDF)**](static-viz/poster.pdf)
+![The Era of Capital Kingdoms — final poster](static-viz/final.png)
+[**View the full-resolution poster (PDF)**](static-viz/final.pdf)
 
 ## About the project
 
